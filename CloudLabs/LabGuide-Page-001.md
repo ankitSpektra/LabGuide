@@ -1,3 +1,3 @@
-# LabGuide-Page-001.md
+# Welcome to Lab Guide
 
-Welcome to your Lab Guide!
+This is the content of your lab guide.
