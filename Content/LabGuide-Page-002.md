@@ -1,1 +1,1 @@
-{"Name":"IOT","Language":"English","Files":[{"RawFilePath":"LabGuide-Page-002.md","Order":2,"UnlockingRules":[{"UnlockDependency":"Questions","UnlockCriteria":"CompletionPercentage","UnlockPercentageThreshold":8,"DependentValidations":[],"DependentQuestions":["Question 2"]},{"UnlockDependency":"Validations","UnlockCriteria":"CompletionPercentage","UnlockPercentageThreshold":99,"DependentValidations":["Validation 2"],"DependentQuestions":[]}]}],"ObjectState":0}
+null
