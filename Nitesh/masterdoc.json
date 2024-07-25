@@ -1,0 +1,1 @@
+{"Name":"Azure Virtual Workshop: Internet of Things (IoT) Test","Language":"English","Files":[{"RawFilePath":"LabGuide-Page-001.md","Order":1,"UnlockingRules":[{"UnlockDependency":"Validations","UnlockCriteria":"Answered","UnlockPercentageThreshold":12,"DependentValidations":["Validation 3"],"DependentQuestions":null}]}],"ObjectState":0}
