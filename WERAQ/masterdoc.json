@@ -1,1 +1,1 @@
-{"Name":"Title","Language":"language","Files":null,"ObjectState":0}
+{"Name":"Title","Language":"language","Files":[{"RawFilePath":"LabGuide-Page-001.md","Order":1,"UnlockingRules":[{"UnlockDependency":"Validations","UnlockCriteria":"CompletionPercentage","UnlockPercentageThreshold":203,"DependentValidations":["Validation 3"],"DependentQuestions":null}]},{"RawFilePath":"LabGuide-Page-002.md","Order":2,"UnlockingRules":null},{"RawFilePath":"LabGuide-Page-003.md","Order":3,"UnlockingRules":null}],"ObjectState":0}
