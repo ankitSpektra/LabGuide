@@ -1,1 +1,1 @@
-{"Name":"S","Language":"S","Files":null,"ObjectState":0}
+{"Name":"S","Language":"S","Files":[{"RawFilePath":"LabGuide-Page-001.md","Order":1,"UnlockingRules":[{"UnlockDependency":"Validations","UnlockCriteria":"CompletionPercentage","UnlockPercentageThreshold":1,"DependentValidations":["Validation 2"],"DependentQuestions":null}]}],"ObjectState":0}
