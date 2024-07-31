@@ -1,1 +1,1 @@
-{"Name":"slls","Language":"s;s","Files":null,"ObjectState":0}
+{"Name":"slls","Language":"s;s","Files":[{"RawFilePath":"LabGuide-Page-001.md","Order":1,"UnlockingRules":[{"UnlockDependency":"Questions","UnlockCriteria":"CompletionPercentage","UnlockPercentageThreshold":2,"DependentValidations":null,"DependentQuestions":["Question 1"]}]},{"RawFilePath":"LabGuide-Page-002.md","Order":2,"UnlockingRules":null}],"ObjectState":0}
